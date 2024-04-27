@@ -80,4 +80,3 @@ Feel free to customize the content to fit your specific project.
 
 _Note: This is final project from Harvard University course CS50's Introduction to Programming with Pyhton _
 
-https://certificates.cs50.io/a54f0d10-67f9-4904-b808-1e00216f1754.pdf?size=letter
