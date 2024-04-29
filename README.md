@@ -78,5 +78,5 @@ Feel free to customize the content to fit your specific project.
 
 
 
-_Note: This is final project from Harvard University course CS50's Introduction to Programming with Pyhton _
+Note: This is final project for Harvard University course CS50's Introduction to Programming with Pyhton _
 
